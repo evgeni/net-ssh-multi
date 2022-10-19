@@ -20,7 +20,7 @@ begin
     s.summary = "Control multiple Net::SSH connections via a single interface."
     s.description = s.summary
     s.email = "net-ssh@solutious.com"
-    s.homepage = "https://github.com/net-ssh/net-scp"
+    s.homepage = "https://github.com/net-ssh/net-ssh-multi"
     s.authors = ["Jamis Buck", "Delano Mandelbaum"]
 
     s.add_dependency 'net-ssh', ">=2.6.5"
